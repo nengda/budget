@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.code.tempus-fugit:tempus-fugit:1.1" type="repository">
+    <properties maven-id="com.google.code.tempus-fugit:tempus-fugit:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/tempus-fugit/tempus-fugit/1.1/tempus-fugit-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
